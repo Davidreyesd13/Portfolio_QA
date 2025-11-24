@@ -1,0 +1,6 @@
+Columna,Valores Problemáticos (Simulación de Datos Sucios)
+ClientID,"1001, 1002, 1003-A, 1002 (Duplicado), NaN"
+Nombre,"juan pérez, Maria Lopez, Carlos, Sanchez, NaN"
+Email,"juan.perez@GMAIL.com, maria@company.com, carlos@company.com, juan.perez@GMAIL.com (Duplicado)"
+País,"USA, EEUU, Estados Unidos, Mexico, NaN"
+Ingresos,"15000, 25000, N/A, 45.500, 5000"

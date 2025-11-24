@@ -1,0 +1,2 @@
+prueba para escribir en un archivo de texto
+segunda linea de prueba
